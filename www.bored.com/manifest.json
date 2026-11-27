@@ -1,0 +1,21 @@
+{
+  "name": "Bored.com",
+  "short_name": "Bored.com",
+  "description": "Cool sites to discover and free games to play, for whenever you are bored.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=2",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
